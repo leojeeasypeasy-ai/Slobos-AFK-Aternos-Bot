@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Onlinebot",
   "bot-account": {
     "username": "AFKbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SurvivalSMPbest2026.aternos.me:50905",
-    "port": 50905,
-    "version": "",
+    "ip": "MCpeakSMP.aternos.me",
+    "port": 35760,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Gejmr!",
         "I like to play Minecraft!"
       ]
     },
